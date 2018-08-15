@@ -1,0 +1,9 @@
+{
+    "name": "wapmorgan/terminal-info",
+    "description": "Simple class providing basic functionality for terminal interactions (windows & unix).",
+    "autoload": {
+        "psr-4": {
+            "wapmorgan\\TerminalInfo\\": "./"
+        }
+    }
+}

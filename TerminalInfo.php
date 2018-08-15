@@ -1,5 +1,5 @@
 <?php
-namespace wapmorgan\PhpCodeFixer;
+namespace wapmorgan\TerminalInfo;
 
 class TerminalInfo {
     const RESET_COLOR = "\e[0m";
